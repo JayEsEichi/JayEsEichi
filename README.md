@@ -80,4 +80,4 @@
 
 ***
 ### 🚀 **WAKATIME STATS**
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayEsEichi)](https://github.com/anuraghazra/github-readme-stats)
+[![SeHun Jin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayEsEichi)](https://github.com/JayEsEichi/github-readme-stats)
