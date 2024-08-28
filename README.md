@@ -73,5 +73,5 @@
 
 ***
 ### 🚀 **STAT & TOP USE LANGUAGE**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayEsEichi)](https://github.com/anuraghazra/github-readme-stats)
+[![SeHun Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayEsEichi)](https://github.com/JayEsEichi/github-readme-stats)
 
