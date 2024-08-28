@@ -2,14 +2,22 @@
 
 안녕하세요. BackEnd 개발자 **진세훈**입니다. 🧑‍💻
 <br/><br/>
+<img align="right" width="35%" height="40%" src="https://images.velog.io/images/khai96/post/ec44ae8c-6223-4802-a2aa-774cab400a04/1.png"/>
+
 - 저는 Java 언어를 주로 사용하고 있어요. 📝
 - 저는 FrontEnd 개발에도 관심이 많으며, Full-Stack 개발자를 꿈꿔요. �
 - 저는 일본어를 사용할 줄 알며, 영어 회화도 공부하고 있어요. 💬
 - 저는 축구를 하는 것과 보는 것을 좋아하며, 좋아하는 팀은 "바르셀로나"에요! ⚽
 - 축구 뿐만 아니라 평소에 운동하는 것을 좋아해요! 👟
-<br/><br/>
 
 <br/>
+
+***🧾 Blog*** : https://jindevelopetravel0919.tistory.com/
+<br/>
+***📧 Email*** : wlstpgns51@naver.com / wlstpgns51@gmail.com
+
+<br/><br/> 
+
 
 ## 🗃️ **STACK**
 
