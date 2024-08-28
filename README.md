@@ -72,6 +72,12 @@
 
 
 ***
-### 🚀 **STAT & TOP USE LANGUAGE**
+### 🚀 **STATS & TOP USE LANGUAGE**
 [![SeHun Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayEsEichi)](https://github.com/JayEsEichi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayEsEichi&layout=compact)
 
+
+
+***
+### 🚀 **WAKATIME STATS**
+[![SeHun Jin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayEsEichi)](https://github.com/JayEsEichi/github-readme-stats)
