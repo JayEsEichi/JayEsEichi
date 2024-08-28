@@ -1,10 +1,10 @@
 # 진세훈 / Jin SeHun
 
-안녕하세요. BackEnd 개발자 **진세훈**입니다. 🧑‍💻
-
-
-
-### **STACK**
+안녕하세요. BackEnd 개발자 **진세훈**입니다. 🧑‍💻           
+      
+      
+***
+### 🗃️ **STACK**
 - #### BackEnd
 <div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" />
   
-
 </div>
 
 - #### DataBase
@@ -31,7 +30,6 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon Rds-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
   
-
 </div>
 
 - #### OS
@@ -50,8 +48,6 @@
   <img src="https://img.shields.io/badge/Amazon Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon Elastic Loadbalancing-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white" />
   
-  
-
 </div>
 
 - #### Tools
@@ -73,3 +69,9 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
 
 </div>
+
+
+***
+### 🚀 **STAT & TOP USE LANGUAGE**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayEsEichi)](https://github.com/anuraghazra/github-readme-stats)
+
