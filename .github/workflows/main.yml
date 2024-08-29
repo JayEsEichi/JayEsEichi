@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: JayEsEichi/waka-readme-stats@master
+      - uses: JayEsEichi/JayEsEichi@main
         with:
           WAKATIME_API_KEY: waka_a5f195ca-f173-4d27-81f4-2ed78ceaedf5
           GH_TOKEN: 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
