@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntellijIdea&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio-527FFF?style=flat-square&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Android Studio-527FFF?style=flat-square&logoColor=white" />
 </div>
 
 
