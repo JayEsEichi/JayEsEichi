@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   
 </div>
 
@@ -52,7 +53,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazonec2&logoColor=white" />
-  
 
 </div>
 
@@ -71,18 +71,19 @@
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntellijIdea&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio-527FFF?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-527FFF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-527FFF?style=flat-square&logoColor=white" />
 </div>
 
 
 - #### Learning Or Sometime Use
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Flutter-00599C?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-61DAFB?style=flat-square&logo=dart&logoColor=white" />
 </div>
 
 <br/><br/>
