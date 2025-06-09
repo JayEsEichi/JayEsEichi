@@ -2,6 +2,9 @@
 
 안녕하세요. BackEnd 개발자 **진세훈**입니다. 🧑‍💻
 <br/><br/>
+<!--
+<img align="right" width="35%" height="40%" src="https://images.velog.io/images/khai96/post/ec44ae8c-6223-4802-a2aa-774cab400a04/1.png"/>
+-->
 <img align="right" width="35%" height="40%" src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F5648832%2Fattach%2Fc9b072ef211f40d0adaa4a0085a515b8"/>
 
 - 저는 Java 언어를 주로 사용하고 있어요. 📝
