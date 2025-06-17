@@ -2,7 +2,7 @@
 
 안녕하세요. BackEnd 개발자 **진세훈**입니다. 🧑‍💻
 <br/><br/>
-<img align="right" width="35%" height="40%" src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F5648832%2Fattach%2Fc9b072ef211f40d0adaa4a0085a515b8"/>
+<img id="profile-img" align="right" width="35%" height="40%" src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F5648832%2Fattach%2Fc9b072ef211f40d0adaa4a0085a515b8"/>
 
 - 저는 Java 언어를 주로 사용하고 있어요. 📝
 - 저는 FrontEnd 개발에도 관심이 많으며, Full-Stack 개발자를 꿈꿔요. �
