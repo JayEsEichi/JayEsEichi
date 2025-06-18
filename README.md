@@ -14,9 +14,9 @@
 
 ***🧾 Blog*** : <a href="https://jindevelopetravel0919.tistory.com/">https://jindevelopetravel0919.tistory.com/</a>
 <br/>
-***📧 Email*** : <span style="color: rgb(5,205,249);">wlstpgns51@naver.com</span> / <span style="color: blue;">wlstpgns51@gmail.com</span>
+***📧 Email*** : <a href="#">wlstpgns51@naver.com</a> / <a href="#">wlstpgns51@gmail.com</a>
 <br/>
-***🧾 Resume*** : [📥 이력서](https://blog.kakaocdn.net/dn/y1qEY/btsOHXF364u/lK353gRuXRhBHCoESyxZG1/%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf?attach=1&knm=tfile.pdf)
+***🧾 Resume*** : <a href="https://peppermint-shirt-fd9.notion.site/17dc013343db80d0ade6f5e348271efa">https://peppermint-shirt-fd9.notion.site/17dc013343db80d0ade6f5e348271efa</a>
 
 <br/><br/> 
 
