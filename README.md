@@ -16,7 +16,7 @@
 <br/>
 ***📧 Email*** : wlstpgns51@naver.com / wlstpgns51@gmail.com
 <br/>
-***🧾 Resume*** : [📥 파일 다운로드](./resume.pdf)
+***🧾 Resume*** : [📥 이력서](./resume.pdf)
 
 <br/><br/> 
 
