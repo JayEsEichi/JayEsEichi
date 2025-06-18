@@ -15,6 +15,8 @@
 ***🧾 Blog*** : https://jindevelopetravel0919.tistory.com/
 <br/>
 ***📧 Email*** : wlstpgns51@naver.com / wlstpgns51@gmail.com
+<br/>
+***🧾 Resume*** : 이력서
 
 <br/><br/> 
 
