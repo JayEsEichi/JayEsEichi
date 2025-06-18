@@ -12,7 +12,7 @@
 
 <br/>
 
-***🧾 Blog*** : https://jindevelopetravel0919.tistory.com/
+***🧾 Blog*** : <a href="https://jindevelopetravel0919.tistory.com/">https://jindevelopetravel0919.tistory.com/</a>
 <br/>
 ***📧 Email*** : wlstpgns51@naver.com / wlstpgns51@gmail.com
 <br/>
